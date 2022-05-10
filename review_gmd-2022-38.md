@@ -1,3 +1,6 @@
+## Paper title: The E3SM Diagnostics Package (E3SM Diags v2.6): A Python-basedDiagnostics Package for Earth System Models Evaluation
+## Preprint: https://gmd.copernicus.org/preprints/gmd-2022-38/gmd-2022-38.pdf
+
 Review by Valeriu Predoi
 ========================
 ## Date: 10 May 2022
